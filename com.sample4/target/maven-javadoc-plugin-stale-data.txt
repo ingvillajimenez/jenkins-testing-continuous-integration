@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'com.sample4 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' '/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'com.sample4 0.0.1-SNAPSHOT API'
+com.sample4.com.sample4
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/src/main/java = 1686604013549
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/constant-values.html = 1686612157707
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/member-search-index.zip = 1686612157747
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/overview-tree.html = 1686612157723
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/index.html = 1686612157756
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/package-search-index.js = 1686612157736
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/package-search-index.zip = 1686612157745
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/type-search-index.zip = 1686612157746
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/index-all.html = 1686612157748
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/allpackages-index.html = 1686612157755
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/deprecated-list.html = 1686612157727
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/member-search-index.js = 1686612157747
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/script.js = 1686612157763
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/stylesheet.css = 1686612157762
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/help-doc.html = 1686612157759
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/element-list = 1686612157693
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/allclasses-index.html = 1686612157753
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/type-search-index.js = 1686612157746
+/Users/juan/code/skillsoft/full-stack-java-developer/devops-basics/jenkins-testing-continuous-integration/com.sample4/target/site/apidocs/search.js = 1686612157765
